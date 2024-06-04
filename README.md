@@ -1,4 +1,4 @@
-<h1>Building Home Network Project</h1>
+<h1>Building a Home Network Project</h1>
 
 <h2>Objective</h2>
 I built a simple home network in Packet Tracer within the Logical Workspace in this activity.
